@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "ip",
+  "version": "1.0.0",
+  "description": "Private serverless api to reflect incoming ip",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn format",
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "author": "Jon Picchietti <jon@picchietti.email>",
+  "license": "Unlicense",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
